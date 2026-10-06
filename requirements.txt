@@ -1,0 +1,11 @@
+pdfplumber
+streamlit
+sentence-transformers
+scikit-learn
+pandas
+numpy
+PyPDF2
+plotly
+nltk
+spacy
+python-dotenv
